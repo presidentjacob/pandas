@@ -13,7 +13,6 @@ from typing import (
 )
 import warnings
 
-# import numpy
 import numpy as np
 
 from pandas._libs import lib
